@@ -23,9 +23,9 @@ of the ab_testing.xlsx excel. Maximum Bidding was applied to the control group
 and Average Bidding was applied to the test group.
 
 
-# Data Features :
-# impressions : Number of ad views
-# Click : Number of clicks on the displayed ad
-# Purchase : The number of products purchased after the ads clicked
-# Earning: Earnings after purchased products
+### Data Features :
+### impressions : Number of ad views
+### Click : Number of clicks on the displayed ad
+### Purchase : The number of products purchased after the ads clicked
+### Earning: Earnings after purchased products
 
