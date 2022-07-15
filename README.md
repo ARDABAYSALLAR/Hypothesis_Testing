@@ -3,7 +3,7 @@ AB testing (Independent 2 sample t-test) process
 
 # @Author : Arda Baysallar
 
-# CASE ****************************
+## CASE :
 Facebook recently introduced a new bidding type, 'average bidding',
 as an alternative to the existing bidding type called 'maximum bidding'.
 One of our clients, bombabomba.com, decided to test this new feature and
@@ -14,7 +14,7 @@ The ultimate success criterion for Bombabomba.com is Purchase.
 Therefore, the focus should be on the Purchase metric for statistical testing.
 
 
-# Explain Data ********************
+## Explain Data :
 In this data set, which includes the website information of a company,
 there is information such as the number of advertisements that users see
 and click, as well as earnings information from here. There are two separate
